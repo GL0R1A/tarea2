@@ -1,0 +1,4 @@
+C:\Users\mita\Desktop\mayu\obj\Debug\netcoreapp3.1\mayu.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\mayu\obj\Debug\netcoreapp3.1\mayu.AssemblyInfoInputs.cache
+C:\Users\mita\Desktop\mayu\obj\Debug\netcoreapp3.1\mayu.AssemblyInfo.cs
+C:\Users\mita\Desktop\mayu\obj\Debug\netcoreapp3.1\mayu.csproj.CoreCompileInputs.cache

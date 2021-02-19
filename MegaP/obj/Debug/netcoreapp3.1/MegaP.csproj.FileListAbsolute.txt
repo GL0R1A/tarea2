@@ -1,0 +1,13 @@
+C:\Users\mita\Desktop\MegaP\bin\Debug\netcoreapp3.1\MegaP.exe
+C:\Users\mita\Desktop\MegaP\bin\Debug\netcoreapp3.1\MegaP.deps.json
+C:\Users\mita\Desktop\MegaP\bin\Debug\netcoreapp3.1\MegaP.runtimeconfig.json
+C:\Users\mita\Desktop\MegaP\bin\Debug\netcoreapp3.1\MegaP.runtimeconfig.dev.json
+C:\Users\mita\Desktop\MegaP\bin\Debug\netcoreapp3.1\MegaP.dll
+C:\Users\mita\Desktop\MegaP\bin\Debug\netcoreapp3.1\MegaP.pdb
+C:\Users\mita\Desktop\MegaP\obj\Debug\netcoreapp3.1\MegaP.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\MegaP\obj\Debug\netcoreapp3.1\MegaP.AssemblyInfoInputs.cache
+C:\Users\mita\Desktop\MegaP\obj\Debug\netcoreapp3.1\MegaP.AssemblyInfo.cs
+C:\Users\mita\Desktop\MegaP\obj\Debug\netcoreapp3.1\MegaP.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\MegaP\obj\Debug\netcoreapp3.1\MegaP.dll
+C:\Users\mita\Desktop\MegaP\obj\Debug\netcoreapp3.1\MegaP.pdb
+C:\Users\mita\Desktop\MegaP\obj\Debug\netcoreapp3.1\MegaP.genruntimeconfig.cache
